@@ -1080,8 +1080,8 @@ img {
     justify-content: initial;
   }
   .contact__img{
-    width: 320px;
-    transform: translateY(-6rem);
+    width: 420px;
+    transform: translateY(-2rem);
   }
 
   .contact__shrimp,
