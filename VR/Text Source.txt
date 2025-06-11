@@ -1,0 +1,190 @@
+/******************************************************* TEXT SOURCE ******************************************* */
+
+
+/*================================= MARQUEE TEXT ============================= */
+
+Immerse Yourself In The Ultimate Gaming Experience
+
+Bring Lessons To Life With Immersive VR Technology
+
+Get Fit And Have Fun With Our VR Fitness Solutions
+
+Experience The Next Level Of Immersion With Our VR Headsets
+
+Step Into New Worlds With Cutting-Edge VR Technology
+
+Discover Your Next Home With Immersive VR Tours
+
+
+
+/*=================================HERO CONTENT============================= */
+
+
+Virtual Worlds
+
+Redefine Reality Through Virtual Worlds
+
+Dictumst odio efficitur phasellus vestibulum vulputate phasellus felis integer libero quisque sollicitudin.
+
+
+/*================================= SIDE BAR CONTENT ============================= */
+
+
+
+Ridiculus at nisi cras consectetur sollicitudin id magna. Libero mauris nisl scelerisque neque Morbi
+quis leo ullamcorper ornare.
+
+
+/*================================= NEW FEATURES ============================= */
+
+New Features
+
+Best Premium VR Headset
+
+VR Helemts
+Panoramic View
+VR Zone
+Controller
+Interaction
+Tilt Control
+
+/*================================= PRODUCTS ============================= */
+
+Popular Products
+
+Discover Popular Picks
+
+Vestibulum facilisis montes ante maecenas aliquet velit arcu enim porttitor porttitor ultricies curae.
+
+Shaping the Future of Experience
+
+3D Gaming Keypad
+HoloQuest VR Headset
+Touch Controller
+VirtuLens Web Cam
+
+
+/*================================= EXPLORE VR============================= */
+
+Explore VR Games
+
+Explore Limitless Possibilities With Virtual Reality
+
+Nec magnis conubia luctus nascetur, nisl ultrices lorem. Euismod ultricies gravida pulvin pharetra. feugiat feugiat senectus torquent.
+
+
+
+Experience With VR
+
+Transform Your Reality With Immersive VR Experiences
+
+Tempus congue dui pretium ac primis pulvinar tempor volutpat. Finibus aptent maecenas taciti libero ipsum. facilisis iaculis magna diam rutrum.
+
+360-Degree Vision
+Motion Tracking
+Real-Time Interaction
+
+Watch How It Works
+
+
+
+Step Into Virtual World
+
+Step Into Extraordinary WorldsWith Cutting-Edge VR
+
+Class malesuada pulvinar tempus ridiculus scelerisque ac ad ut. justo maecenas. Habitant hac augue proin facilisis nisi hendrerit id.
+
+Emission
+0.12g/Km
+
+Range
+126Km
+
+Battery
+4500Mah
+
+Latency
+2.40Sec
+
+Book Today
+
+/*=================================  TESTIMONIAL  ============================= */
+
+
+Client Reviews
+
+What Our Customers Are Saying
+
+Nullam quis nostra quis proin, aliquam dictum. Eget laoreet nullam malesuada 
+iaculis tempor risus risus. Pharetra condimentum eleifend, eleifend per vestibulum 
+nulla lobortis posuere. Convallis fermentum scelerisque sit ornare adipiscing ad.
+
+Alford ---
+Engineer ---
+
+Tristique quam enim nunc elit facilisi mi leo massa. Quam hac odio nisi aliquam 
+risus dapibus mi. Consectetur aptent ad sem natoque neque cras elit sed. Varius potenti
+facilisis eget, egestas accumsan mattis lacus dignissim dapibus. 
+
+Ernest ---
+Designer ---
+
+Blandit pulvinar habitasse posuere, ac mus venenatis. Egestas ridiculus taciti posuere
+sodales class netus scelerisque. Elementum convallis iaculis velit est malesuada. Eleifend 
+cubilia nec conubia sociosqu vestibulum hendrerit tellus sapien duis.
+
+Mathew ---
+Developer ---
+
+
+/*================================= BANNER 2 ============================= */
+
+Upgrade Now
+
+Upgrade Your Device With VR
+
+Integer diam enim, posuere ut malesuada non, consectetur vel nibh. Curabitur nec finibus
+odio, ac congue ex.
+
+/*================================= FOOTER  ============================= */
+
+Information --
+History
+Careers
+Press And Media
+Brand Partners
+Affiliates
+
+Useful links --
+Partner Program
+Affiliate Program
+App Developers
+Investors
+Recent Blogs
+Contact Us
+
+
+
+Donec lobortis varius est. Nulla ullamcorper sapien bibendum erat ornare congue.
+Sed tempus elementum ex convallis bibendum.
+
+
+
+Resources --
+Privacy Policy
+Shipping Policy
+Refund Polices
+Delivery Terms
+Terms & Condition
+
+Support --
+Shop E-Scooters
+Sustainability
+Warranty Information
+Product Registration
+User Manuals
+
+
+/* COPYRIGHTS */ 
+
+© Copyright 2024. All Right Reserved By Adnan Bhaldar
